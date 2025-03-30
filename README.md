@@ -163,18 +163,3 @@ The test file uses the following configuration:
 
 ---
 
-## 📄 License
-
-MIT © 2025 Your Company Name
-
----
-
-## 📸 Screenshots & Demos *(Optional)*
-
-You can include visuals here.
-
-```md
-![Start Stream Demo](assets/start-demo.gif)
-```
-
-Make sure to upload your screenshots/GIFs into an `assets/` folder in the repo.
