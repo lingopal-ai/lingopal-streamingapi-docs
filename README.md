@@ -51,6 +51,14 @@ The `StreamingAPIClient` class enables you to:
 
 ---
 
+## 🔍 API Reference (Swagger)
+
+You can explore the full API specification and test endpoints interactively via our Swagger UI:
+
+👉 [View LinGoPal API Swagger Docs](https://cs9m9ilwlg.execute-api.us-west-2.amazonaws.com/public_api_dev/swagger)
+
+---
+
 ## 🧪 Running Tests
 
 We use `pytest` for validating the API functionality.
