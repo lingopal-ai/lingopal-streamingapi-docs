@@ -1,7 +1,3 @@
----
-layout: default
-title: LinGoPal Streaming API Client
----
 
 # 🎧 LinGoPal Streaming API Client
 
