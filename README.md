@@ -32,7 +32,6 @@ This site provides an overview of how to install, use, and test the client libra
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-org/lingopal-streaming-api-client.git
 cd lingopal_streaming_api_setup
 pip install -r requirements.txt
 ```
