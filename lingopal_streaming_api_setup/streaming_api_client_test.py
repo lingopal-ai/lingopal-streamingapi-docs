@@ -12,7 +12,7 @@ def test_start_stream(ingest_url: str = "ingest_url", default_voice_id: str = "d
     """
     Test the start_stream method.
     
-    Update the ingest_url to the stream you want to start.
+    Update the ingest_url, default_voice_id, STREAM_ID and API_KEY to the stream you want to start.
     
     Use: pytest -v -s streaming_api_client_test.py::test_start_stream
     """
