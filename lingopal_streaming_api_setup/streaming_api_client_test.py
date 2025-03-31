@@ -3,7 +3,7 @@ import json
 from streaming_api_client import StreamingAPIClient
 
 BASE_URL = "https://cs9m9ilwlg.execute-api.us-west-2.amazonaws.com/public_api_dev"
-API_KEY = "y0vul9EeaY_c3kdSOgvGuGUST7dgKqQk427c-PT88k0"
+API_KEY = "YOUR_API_KEY"
 
 STREAM_ID = "2b66cf47-5445-44aa-96be-def88ba7e230"
 client = StreamingAPIClient(BASE_URL, API_KEY)
