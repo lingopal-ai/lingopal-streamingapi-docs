@@ -5,10 +5,10 @@ from streaming_api_client import StreamingAPIClient
 BASE_URL = "https://cs9m9ilwlg.execute-api.us-west-2.amazonaws.com/public_api_dev"
 API_KEY = "YOUR_API_KEY"
 
-STREAM_ID = "2b66cf47-5445-44aa-96be-def88ba7e230"
+STREAM_ID = "STREAM_ID"
 client = StreamingAPIClient(BASE_URL, API_KEY)
 
-def test_start_stream(ingest_url: str = "srt://54.244.123.101:5090", default_voice_id: str = "YKUjKbMlejgvkOZlnnvt"):
+def test_start_stream(ingest_url: str = "ingest_url", default_voice_id: str = "default_voice_id"):
     """
     Test the start_stream method.
     
